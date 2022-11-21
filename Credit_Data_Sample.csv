@@ -1,0 +1,691 @@
+Gender,Age,InterestRate,FirstInvGrade,SecondInvGrade,Job,Purpose,TenureYears,HasKids,HasCar,LoanRequests,Guarantor,VerificationStatus,NormalizedIncome,NormalizedLoan,TARGET
+male,30.83,0.0,A,a,Salesman,Vacation,1.25,t,t,1.0,f,Verified,202.0,100.0,+
+female,58.67,4.46,A,a,Administative,Debt consolidation,3.04,t,t,6.0,f,Verified,43.0,560.0,+
+female,24.5,0.5,A,a,Administative,Debt consolidation,1.5,t,f,0.0,f,Verified,280.0,824.0,+
+male,27.83,1.54,A,a,Salesman,Vacation,3.75,t,t,5.0,t,Verified,100.0,3.0,+
+male,20.17,5.625,A,a,Salesman,Vacation,1.71,t,f,0.0,f,Not Verified,120.0,100.0,+
+male,32.08,4.0,A,a,Programmer,Vacation,2.5,t,f,0.0,t,Verified,360.0,100.0,+
+male,33.17,1.04,A,a,Driver,Debt consolidation,6.5,t,f,0.0,t,Verified,164.0,31285.0,+
+female,22.92,11.585,A,a, Manager,Vacation,0.04,t,f,0.0,f,Verified,80.0,1349.0,+
+male,54.42,0.5,B,b,Teacher,Debt consolidation,3.96,t,f,0.0,f,Verified,180.0,314.0,+
+male,42.5,4.915,B,b,Salesman,Vacation,3.165,t,f,0.0,t,Verified,52.0,1442.0,+
+male,22.08,0.83,A,a,Technician,Debt consolidation,2.165,f,f,0.0,t,Verified,128.0,100.0,+
+male,29.92,1.835,A,a,Technician,Debt consolidation,4.335,t,f,0.0,f,Verified,260.0,200.0,+
+female,38.25,6.0,A,a,Teacher,Vacation,1.0,t,f,0.0,t,Verified,100.0,100.0,+
+male,48.08,6.04,A,a,Teacher,Vacation,0.04,f,f,0.0,f,Verified,100.0,2690.0,+
+female,45.83,10.5,A,a,Administative,Vacation,5.0,t,t,7.0,t,Verified,100.0,100.0,+
+male,36.67,4.415,B,b,Teacher,Vacation,0.25,t,t,10.0,t,Verified,320.0,100.0,+
+male,28.25,0.875,A,a,Programmer,Vacation,0.96,t,t,3.0,t,Verified,396.0,100.0,+
+female,23.25,5.875,A,a,Administative,Vacation,3.17,t,t,10.0,f,Verified,120.0,245.0,+
+male,21.83,0.25,A,a,Consultant,Debt consolidation,0.665,t,f,0.0,t,Verified,100.0,100.0,+
+female,19.17,8.585,A,a, Manager,Debt consolidation,0.75,t,t,7.0,f,Verified,96.0,100.0,+
+male,25.0,11.25,A,a,Technician,Vacation,2.5,t,t,17.0,f,Verified,200.0,1208.0,+
+male,23.25,1.0,A,a,Technician,Vacation,0.835,t,f,0.0,f,Not Verified,300.0,100.0,+
+female,47.75,8.0,A,a,Technician,Vacation,7.875,t,t,6.0,t,Verified,100.0,1260.0,+
+female,27.42,14.5,A,a,Self-employed,Debt consolidation,3.085,t,t,1.0,f,Verified,120.0,11.0,+
+female,41.17,6.5,A,a,Administative,Vacation,0.5,t,t,3.0,t,Verified,145.0,100.0,+
+female,15.83,0.585,A,a,Technician,Debt consolidation,1.5,t,t,2.0,f,Verified,100.0,100.0,+
+female,47.0,13.0,A,a,Attorney,Personal loan,5.165,t,t,9.0,t,Verified,100.0,100.0,+
+male,56.58,18.5,A,a,Consultant,Personal loan,15.0,t,t,17.0,t,Verified,100.0,100.0,+
+male,57.42,8.5,A,a,Nurse,Debt consolidation,7.0,t,t,3.0,f,Verified,100.0,100.0,+
+male,42.08,1.04,A,a,Salesman,Vacation,5.0,t,t,6.0,t,Verified,500.0,10000.0,+
+male,29.25,14.79,A,a,Police Officer,Vacation,5.04,t,t,5.0,t,Verified,168.0,100.0,+
+male,42.0,9.79,A,a,Self-employed,Debt consolidation,7.96,t,t,8.0,f,Verified,100.0,100.0,+
+male,49.5,7.585,A,a,Attorney,Personal loan,7.585,t,t,15.0,t,Verified,100.0,5000.0,+
+female,36.75,5.125,A,a,Nurse,Vacation,5.0,t,f,0.0,t,Verified,100.0,4000.0,+
+female,22.58,10.75,A,a,Administative,Vacation,0.415,t,t,5.0,t,Verified,100.0,560.0,+
+male,27.83,1.5,A,a,Salesman,Vacation,2.0,t,t,11.0,t,Verified,434.0,35.0,+
+male,27.25,1.585,A,a, Manager,Debt consolidation,1.835,t,t,12.0,t,Verified,583.0,713.0,+
+female,23.0,11.75,A,a,Self-employed,Debt consolidation,0.5,t,t,2.0,t,Verified,300.0,551.0,+
+male,27.75,0.585,B,b, Manager,Vacation,0.25,t,t,2.0,f,Verified,260.0,500.0,+
+male,54.58,9.415,A,a,Electrician,Weddings,14.415,t,t,11.0,t,Verified,30.0,300.0,+
+male,34.17,9.17,A,a,Technician,Vacation,4.5,t,t,12.0,t,Verified,100.0,221.0,+
+male,28.92,15.0,A,a,Technician,Debt consolidation,5.335,t,t,11.0,f,Verified,100.0,2283.0,+
+male,29.67,1.415,A,a,Salesman,Debt consolidation,0.75,t,t,1.0,f,Verified,240.0,100.0,+
+male,39.58,13.915,A,a,Salesman,Vacation,8.625,t,t,6.0,t,Verified,70.0,100.0,+
+male,56.42,28.0,B,b,Technician,Vacation,28.5,t,t,40.0,f,Verified,100.0,15.0,+
+male,54.33,6.75,A,a,Technician,Debt consolidation,2.625,t,t,11.0,t,Verified,100.0,284.0,+
+female,41.0,2.04,B,b,Administative,Debt consolidation,0.125,t,t,23.0,t,Verified,455.0,1236.0,+
+male,31.92,4.46,A,a, Manager,Debt consolidation,6.04,t,t,3.0,f,Verified,311.0,300.0,+
+male,41.5,1.54,A,a,Attorney,Personal loan,3.5,f,f,0.0,f,Verified,216.0,100.0,+
+male,23.92,0.665,A,a,Technician,Vacation,0.165,f,f,0.0,f,Verified,100.0,100.0,+
+female,25.75,0.5,A,a,Technician,Debt consolidation,0.875,t,f,0.0,t,Verified,491.0,100.0,+
+male,26.0,1.0,A,a,Administative,Vacation,1.75,t,f,0.0,t,Verified,280.0,100.0,+
+male,37.42,2.04,A,a,Salesman,Vacation,0.04,t,f,0.0,t,Verified,400.0,5800.0,+
+male,34.92,2.5,A,a,Salesman,Vacation,0.0,t,f,0.0,t,Verified,239.0,200.0,+
+male,34.25,3.0,A,a, Manager,Debt consolidation,7.415,t,f,0.0,t,Verified,100.0,100.0,+
+male,23.33,11.625,B,b,Salesman,Vacation,0.835,t,f,0.0,t,Verified,160.0,300.0,+
+male,23.17,0.0,A,a, Manager,Vacation,0.085,t,f,0.0,f,Verified,100.0,100.0,+
+male,44.33,0.5,A,a,Attorney,Debt consolidation,5.0,t,f,0.0,t,Verified,320.0,100.0,+
+male,35.17,4.5,A,a,Self-employed,Debt consolidation,5.75,f,f,0.0,t,Not Verified,711.0,100.0,+
+male,43.25,3.0,A,a,Administative,Debt consolidation,6.0,t,t,11.0,f,Verified,80.0,100.0,+
+male,56.75,12.25,A,a,Programmer,Vacation,1.25,t,t,4.0,t,Verified,200.0,100.0,+
+male,31.67,16.165,A,a,Consultant,Vacation,3.0,t,t,9.0,f,Verified,250.0,730.0,+
+female,23.42,0.79,B,b,Administative,Vacation,1.5,t,t,2.0,t,Verified,80.0,400.0,+
+female,20.42,0.835,A,a,Administative,Vacation,1.585,t,t,1.0,f,Verified,100.0,100.0,+
+male,26.67,4.25,A,a, Manager,Vacation,4.29,t,t,1.0,t,Verified,120.0,100.0,+
+male,34.17,1.54,A,a, Manager,Vacation,1.54,t,t,1.0,t,Verified,520.0,50000.0,+
+female,36.0,1.0,A,a,Technician,Vacation,2.0,t,t,11.0,f,Verified,100.0,456.0,+
+male,25.5,0.375,A,a,Programmer,Vacation,0.25,t,t,3.0,f,Verified,260.0,15108.0,+
+male,19.42,6.5,A,a,Salesman,Debt consolidation,1.46,t,t,7.0,f,Verified,80.0,2954.0,+
+male,35.17,25.125,A,a,Self-employed,Debt consolidation,1.625,t,t,1.0,t,Verified,515.0,500.0,+
+male,32.33,7.5,A,a,Nurse,Personal loan,1.585,t,f,0.0,t,Not Verified,420.0,100.0,-
+male,34.83,4.0,A,a,Consultant,Personal loan,12.5,t,f,0.0,t,Verified,,100.0,-
+female,38.58,5.0,A,a, Manager,Vacation,13.5,t,f,0.0,t,Verified,980.0,100.0,-
+male,44.25,0.5,A,a,Programmer,Vacation,10.75,t,f,0.0,f,Not Verified,400.0,100.0,-
+male,44.83,7.0,B,b,Technician,Vacation,1.625,f,f,0.0,f,Verified,160.0,2.0,-
+male,20.67,5.29,A,a,Administative,Vacation,0.375,t,t,1.0,f,Verified,160.0,100.0,-
+male,34.08,6.5,A,a,Police Officer,Vacation,0.125,t,f,0.0,t,Verified,443.0,100.0,-
+female,19.17,0.585,B,b,Police Officer,Vacation,0.585,t,f,0.0,t,Verified,160.0,100.0,-
+male,21.67,1.165,B,b,Teacher,Vacation,2.5,t,t,1.0,f,Verified,180.0,20.0,-
+male,21.5,9.75,A,a,Technician,Vacation,0.25,t,f,0.0,f,Verified,140.0,100.0,-
+male,49.58,19.0,A,a,Electrician,Weddings,0.0,t,t,1.0,f,Verified,94.0,100.0,-
+female,27.67,1.5,A,a,Programmer,Vacation,2.0,t,f,0.0,f,Not Verified,368.0,100.0,-
+male,39.83,0.5,A,a,Programmer,Vacation,0.25,t,f,0.0,f,Not Verified,288.0,100.0,-
+female,,3.5,A,a,Consultant,Vacation,3.0,t,f,0.0,t,Verified,300.0,100.0,-
+male,27.25,0.625,A,a,Police Officer,Vacation,0.455,t,f,0.0,t,Verified,200.0,100.0,-
+male,37.17,4.0,A,a,Technician,Personal loan,5.0,t,f,0.0,t,Not Verified,280.0,100.0,-
+male,,0.375,A,a,Consultant,Vacation,0.875,t,f,0.0,t,Not Verified,928.0,100.0,-
+male,25.67,2.21,B,b,Police Officer,Vacation,4.0,t,f,0.0,f,Verified,188.0,100.0,-
+male,34.0,4.5,A,a,Police Officer,Vacation,1.0,t,f,0.0,t,Verified,240.0,100.0,-
+female,49.0,1.5,A,a,Sportsman,Presents,0.0,t,f,0.0,t,Verified,100.0,27.0,-
+male,62.5,12.75,B,b,Technician,Debt consolidation,5.0,t,f,0.0,f,Verified,112.0,100.0,-
+male,31.42,15.5,A,a,Technician,Vacation,0.5,t,f,0.0,f,Verified,120.0,100.0,-
+male,,5.0,B,b,Police Officer,Vacation,8.5,t,f,0.0,f,Verified,100.0,100.0,-
+male,52.33,1.375,B,b,Technician,Debt consolidation,9.46,t,f,0.0,t,Verified,200.0,100.0,-
+male,28.75,1.5,B,b,Technician,Vacation,1.5,t,f,0.0,t,Verified,100.0,225.0,-
+female,28.58,3.54,A,a,Attorney,Personal loan,0.5,t,f,0.0,t,Verified,171.0,100.0,-
+male,23.0,0.625,B,b,Police Officer,Vacation,0.125,t,f,0.0,f,Verified,180.0,1.0,-
+male,,0.5,A,a,Technician,Personal loan,0.835,t,f,0.0,t,Not Verified,320.0,100.0,-
+female,22.5,11.0,B,b,Administative,Vacation,3.0,t,f,0.0,t,Verified,268.0,100.0,-
+female,28.5,1.0,A,a,Administative,Vacation,1.0,t,t,2.0,t,Verified,167.0,500.0,-
+male,37.5,1.75,B,b,Technician,Personal loan,0.25,t,f,0.0,t,Verified,164.0,400.0,-
+male,35.25,16.5,B,b,Technician,Vacation,4.0,t,f,0.0,f,Verified,80.0,100.0,-
+male,18.67,5.0,A,a,Administative,Vacation,0.375,t,t,2.0,f,Verified,100.0,38.0,-
+male,25.0,12.0,A,a,Teacher,Vacation,2.25,t,t,2.0,t,Verified,120.0,5.0,-
+male,27.83,4.0,B,b,Attorney,Debt consolidation,5.75,t,t,2.0,t,Verified,75.0,100.0,-
+male,54.83,15.5,A,a,Nurse,Home improvement,0.0,t,t,20.0,f,Verified,152.0,130.0,-
+male,28.75,1.165,A,a,Teacher,Vacation,0.5,t,f,0.0,f,Not Verified,280.0,100.0,-
+female,25.0,11.0,B,b,Police Officer,Vacation,4.5,t,f,0.0,f,Verified,120.0,100.0,-
+male,40.92,2.25,B,b,Self-employed,Debt consolidation,10.0,t,f,0.0,t,Verified,176.0,100.0,-
+female,19.75,0.75,A,a,Technician,Vacation,0.795,t,t,5.0,t,Verified,140.0,5.0,-
+male,29.17,3.5,A,a,Salesman,Vacation,3.5,t,t,3.0,t,Verified,329.0,100.0,-
+female,24.5,1.04,B,b,Electrician,Weddings,0.5,t,t,3.0,f,Verified,180.0,147.0,-
+male,24.58,12.5,A,a,Salesman,Vacation,0.875,t,f,0.0,t,Verified,260.0,100.0,-
+female,33.75,0.75,A,a,Teacher,Personal loan,1.0,t,t,3.0,t,Verified,212.0,100.0,-
+male,20.67,1.25,B,b,Technician,Debt consolidation,1.375,t,t,3.0,t,Verified,140.0,210.0,-
+female,25.42,1.125,A,a,Administative,Vacation,1.29,t,t,2.0,f,Verified,200.0,100.0,-
+male,37.75,7.0,A,a,Administative,Debt consolidation,11.5,t,t,7.0,t,Verified,300.0,5.0,-
+male,52.5,6.5,A,a,Teacher,Vacation,6.29,t,t,15.0,f,Verified,100.0,11202.0,+
+male,57.83,7.04,A,a,Programmer,Vacation,14.0,t,t,6.0,t,Verified,360.0,1332.0,+
+female,20.75,10.335,A,a, Manager,Debt consolidation,0.335,t,t,1.0,t,Verified,80.0,50.0,+
+male,39.92,6.21,A,a,Administative,Vacation,0.04,t,t,1.0,f,Verified,200.0,300.0,+
+male,25.67,12.5,A,a, Manager,Vacation,1.21,t,t,67.0,t,Verified,140.0,258.0,+
+female,24.75,12.5,A,a,Police Officer,Vacation,1.5,t,t,12.0,t,Verified,120.0,567.0,+
+female,44.17,6.665,A,a,Administative,Vacation,7.375,t,t,3.0,t,Verified,100.0,100.0,+
+female,23.5,9.0,A,a,Administative,Vacation,8.5,t,t,5.0,t,Verified,120.0,100.0,+
+male,34.92,5.0,A,a,Self-employed,Debt consolidation,7.5,t,t,6.0,t,Verified,100.0,1000.0,+
+male,47.67,2.5,A,a,Programmer,Personal loan,2.5,t,t,12.0,t,Verified,410.0,2510.0,+
+male,22.75,11.0,A,a,Administative,Vacation,2.5,t,t,7.0,t,Verified,100.0,809.0,+
+male,34.42,4.25,A,a,Attorney,Personal loan,3.25,t,t,2.0,f,Verified,274.0,610.0,+
+female,28.42,3.5,A,a,Salesman,Vacation,0.835,t,f,0.0,f,Not Verified,280.0,100.0,+
+male,67.75,5.5,A,a,Nurse,Home improvement,13.0,t,t,1.0,t,Verified,100.0,100.0,+
+male,20.42,1.835,A,a,Technician,Vacation,2.25,t,t,1.0,f,Verified,100.0,150.0,+
+female,47.42,8.0,A,a,Nurse,Personal loan,6.5,t,t,6.0,f,Verified,375.0,51100.0,+
+male,36.25,5.0,A,a,Technician,Personal loan,2.5,t,t,6.0,f,Verified,100.0,367.0,+
+male,32.67,5.5,A,a,Administative,Debt consolidation,5.5,t,t,12.0,t,Verified,408.0,1000.0,+
+male,48.58,6.5,A,a,Administative,Debt consolidation,6.0,t,f,0.0,t,Verified,350.0,100.0,+
+male,39.92,0.54,B,b,Police Officer,Vacation,0.5,t,t,3.0,f,Verified,200.0,1000.0,+
+male,33.58,2.75,A,a,Programmer,Vacation,4.25,t,t,6.0,f,Verified,204.0,100.0,+
+female,18.83,9.5,A,a,Salesman,Vacation,1.625,t,t,6.0,t,Verified,40.0,600.0,+
+female,26.92,13.5,A,a,Administative,Debt consolidation,5.0,t,t,2.0,f,Verified,100.0,5000.0,+
+female,31.25,3.75,A,a, Manager,Debt consolidation,0.625,t,t,9.0,t,Verified,181.0,100.0,+
+female,56.5,16.0,A,a,Sportsman,Weddings,0.0,t,t,15.0,f,Verified,100.0,247.0,+
+male,43.0,0.29,B,b, Manager,Debt consolidation,1.75,t,t,8.0,f,Verified,100.0,375.0,+
+male,22.33,11.0,A,a,Salesman,Vacation,2.0,t,t,1.0,f,Verified,80.0,278.0,+
+male,27.25,1.665,A,a, Manager,Debt consolidation,5.085,t,t,9.0,f,Verified,399.0,827.0,+
+male,32.83,2.5,A,a, Manager,Debt consolidation,2.75,t,t,6.0,f,Verified,160.0,2072.0,+
+male,23.25,1.5,A,a,Administative,Vacation,2.375,t,t,3.0,t,Verified,100.0,582.0,+
+female,40.33,7.54,B,b,Administative,Debt consolidation,8.0,t,t,14.0,f,Verified,100.0,2300.0,+
+female,30.5,6.5,A,a,Technician,Personal loan,4.0,t,t,7.0,t,Verified,100.0,3065.0,+
+female,52.83,15.0,A,a,Technician,Vacation,5.5,t,t,14.0,f,Verified,100.0,2200.0,+
+female,46.67,0.46,A,a, Manager,Debt consolidation,0.415,t,t,11.0,t,Verified,440.0,6.0,+
+female,58.33,10.0,A,a,Administative,Vacation,4.0,t,t,14.0,f,Verified,100.0,1602.0,+
+male,37.33,6.5,A,a,Programmer,Debt consolidation,4.25,t,t,12.0,t,Verified,93.0,100.0,+
+male,23.08,2.5,A,a,Technician,Vacation,1.085,t,t,11.0,t,Verified,60.0,2184.0,+
+male,32.75,1.5,A,a, Manager,Debt consolidation,5.5,t,t,3.0,t,Verified,100.0,100.0,+
+female,21.67,11.5,B,b,Sportsman,Presents,0.0,t,t,11.0,t,Verified,100.0,100.0,+
+female,28.5,3.04,B,b,Self-employed,Debt consolidation,2.54,t,t,1.0,f,Verified,70.0,100.0,+
+female,68.67,15.0,A,a,Nurse,Home improvement,0.0,t,t,14.0,f,Verified,100.0,3376.0,+
+male,28.0,2.0,A,a,Teacher,Debt consolidation,4.165,t,t,2.0,t,Verified,181.0,100.0,+
+male,34.08,0.08,B,b,Programmer,Personal loan,0.04,t,t,1.0,t,Verified,280.0,2000.0,+
+male,27.67,2.0,A,a,Self-employed,Debt consolidation,1.0,t,t,4.0,f,Verified,140.0,7544.0,+
+male,44.0,2.0,A,a,Programmer,Vacation,1.75,t,t,2.0,t,Verified,100.0,15.0,+
+male,25.08,1.71,A,a,Self-employed,Vacation,1.665,t,t,1.0,t,Verified,395.0,20.0,+
+male,32.0,1.75,B,b,Nurse,Debt consolidation,0.04,t,f,0.0,t,Verified,393.0,100.0,+
+female,60.58,16.5,A,a,Administative,Vacation,11.0,t,f,0.0,t,Verified,21.0,10561.0,+
+female,40.83,10.0,A,a,Administative,Debt consolidation,1.75,t,f,0.0,f,Verified,29.0,837.0,+
+male,19.33,9.5,A,a,Administative,Vacation,1.0,t,f,0.0,t,Verified,60.0,400.0,+
+female,32.33,0.54,A,a, Manager,Vacation,0.04,t,f,0.0,f,Verified,440.0,11177.0,+
+male,36.67,3.25,A,a,Administative,Debt consolidation,9.0,t,f,0.0,t,Verified,102.0,639.0,+
+male,37.5,1.125,B,b,Consultant,Vacation,1.5,f,f,0.0,t,Verified,431.0,100.0,+
+female,25.08,2.54,B,b,Police Officer,Vacation,0.25,t,f,0.0,t,Verified,370.0,100.0,+
+male,41.33,0.0,A,a,Technician,Personal loan,15.0,t,f,0.0,f,Verified,100.0,100.0,+
+male,56.0,12.5,A,a,Teacher,Debt consolidation,8.0,t,f,0.0,t,Verified,24.0,2028.0,+
+female,49.83,13.585,A,a,Teacher,Debt consolidation,8.5,t,f,0.0,t,Verified,100.0,100.0,+
+male,22.67,10.5,A,a,Administative,Debt consolidation,1.335,t,f,0.0,f,Verified,100.0,100.0,+
+male,27.0,1.5,B,b,Salesman,Vacation,0.375,t,f,0.0,t,Verified,260.0,1065.0,+
+male,25.0,12.5,A,a,Police Officer,Vacation,3.0,t,f,0.0,t,Not Verified,20.0,100.0,+
+female,26.08,8.665,A,a,Police Officer,Vacation,1.415,t,f,0.0,f,Verified,160.0,150.0,+
+female,18.42,9.25,A,a,Administative,Vacation,1.21,t,t,4.0,f,Verified,60.0,540.0,+
+male,20.17,8.17,A,a,Police Officer,Vacation,1.96,t,t,14.0,f,Verified,60.0,158.0,+
+male,47.67,0.29,A,a,Technician,Personal loan,15.0,t,t,20.0,f,Verified,100.0,15000.0,+
+female,21.25,2.335,A,a,Attorney,Personal loan,0.5,t,t,4.0,f,Not Verified,80.0,100.0,+
+female,20.67,3.0,A,a,Administative,Vacation,0.165,t,t,3.0,f,Verified,100.0,6.0,+
+female,57.08,19.5,A,a,Technician,Vacation,5.5,t,t,7.0,f,Verified,100.0,3000.0,+
+female,22.42,5.665,A,a,Administative,Vacation,2.585,t,t,7.0,f,Verified,129.0,3257.0,+
+male,48.75,8.5,A,a,Technician,Debt consolidation,12.5,t,t,9.0,f,Verified,181.0,1655.0,+
+male,40.0,6.5,A,a,Police Officer,Personal loan,3.5,t,t,1.0,f,Verified,100.0,500.0,+
+male,40.58,5.0,A,a,Technician,Vacation,5.0,t,t,7.0,f,Verified,100.0,3065.0,+
+female,28.67,1.04,A,a,Technician,Vacation,2.5,t,t,5.0,t,Verified,300.0,1430.0,+
+female,33.08,4.625,A,a,Administative,Debt consolidation,1.625,t,t,2.0,f,Verified,100.0,100.0,+
+male,21.33,10.5,A,a,Technician,Vacation,3.0,t,f,0.0,t,Verified,100.0,100.0,+
+male,42.0,0.205,A,a,Attorney,Debt consolidation,5.125,t,f,0.0,f,Verified,400.0,100.0,+
+male,41.75,0.96,A,a,Self-employed,Vacation,2.5,t,f,0.0,f,Verified,510.0,600.0,+
+male,22.67,1.585,B,b,Salesman,Vacation,3.085,t,t,6.0,f,Verified,80.0,100.0,+
+male,34.5,4.04,B,b,Attorney,Personal loan,8.5,t,t,7.0,t,Verified,195.0,100.0,+
+male,28.25,5.04,B,b,Technician,Personal loan,1.5,t,t,8.0,t,Verified,144.0,7.0,+
+male,33.17,3.165,B,b,Self-employed,Vacation,3.165,t,t,3.0,t,Verified,380.0,100.0,+
+male,48.17,7.625,A,a,Salesman,Debt consolidation,15.5,t,t,12.0,f,Verified,100.0,790.0,+
+male,27.58,2.04,B,b,Police Officer,Vacation,2.0,t,t,3.0,t,Verified,370.0,560.0,+
+male,22.58,10.04,A,a,Self-employed,Vacation,0.04,t,t,9.0,f,Verified,60.0,396.0,+
+female,24.08,0.5,A,a,Administative,Debt consolidation,1.25,t,t,1.0,f,Verified,100.0,678.0,+
+female,41.33,1.0,A,a,Attorney,Personal loan,2.25,t,f,0.0,t,Verified,100.0,300.0,+
+male,24.83,2.75,A,a,Technician,Vacation,2.25,t,t,6.0,f,Verified,,600.0,+
+female,20.75,10.25,A,a,Administative,Vacation,0.71,t,t,2.0,t,Verified,49.0,100.0,+
+male,36.33,2.125,B,b,Salesman,Vacation,0.085,t,t,1.0,f,Verified,50.0,1187.0,+
+female,35.42,12.0,A,a,Administative,Debt consolidation,14.0,t,t,8.0,f,Verified,100.0,6590.0,+
+female,71.58,0.0,,,,,0.0,f,f,0.0,f,Pending,,100.0,+
+male,28.67,9.335,A,a,Administative,Debt consolidation,5.665,t,t,6.0,f,Verified,381.0,168.0,+
+male,35.17,2.5,A,a,Teacher,Vacation,4.5,t,t,7.0,f,Verified,150.0,1270.0,+
+male,39.5,4.25,A,a,Technician,Personal loan,6.5,t,t,16.0,f,Verified,117.0,1210.0,+
+male,39.33,5.875,A,a, Manager,Debt consolidation,10.0,t,t,14.0,t,Verified,399.0,100.0,+
+male,24.33,6.625,B,b,Consultant,Vacation,5.5,t,f,0.0,t,Not Verified,100.0,100.0,+
+male,60.08,14.5,A,a,Electrician,Weddings,18.0,t,t,15.0,t,Verified,100.0,1000.0,+
+male,23.08,11.5,A,a,Attorney,Vacation,3.5,t,t,9.0,f,Verified,56.0,742.0,+
+male,26.67,2.71,B,b, Manager,Vacation,5.25,t,t,1.0,f,Verified,211.0,100.0,+
+male,48.17,3.5,A,a,Police Officer,Vacation,3.5,t,f,0.0,f,Not Verified,230.0,100.0,+
+male,41.17,4.04,A,a, Manager,Debt consolidation,7.0,t,t,8.0,f,Verified,320.0,100.0,+
+male,55.92,11.5,A,a,Electrician,Weddings,5.0,t,t,5.0,f,Verified,100.0,8851.0,+
+male,53.92,9.625,A,a,Nurse,Vacation,8.665,t,t,5.0,f,Verified,100.0,100.0,+
+female,18.92,9.25,B,b,Technician,Vacation,1.0,t,t,4.0,t,Verified,80.0,500.0,+
+female,50.08,12.54,A,a,Police Officer,Vacation,2.29,t,t,3.0,t,Verified,156.0,100.0,+
+male,65.42,11.0,A,a,Nurse,Home improvement,20.0,t,t,7.0,t,Verified,22.0,100.0,+
+female,17.58,9.0,A,a,Police Officer,Vacation,1.375,t,f,0.0,t,Verified,100.0,100.0,+
+female,18.83,9.54,A,a,Police Officer,Vacation,0.085,t,f,0.0,f,Verified,100.0,100.0,+
+female,37.75,5.5,A,a,Administative,Vacation,0.125,t,f,0.0,t,Verified,228.0,100.0,+
+male,23.25,4.0,A,a,Technician,Personal loan,0.25,t,f,0.0,t,Verified,160.0,100.0,+
+male,18.08,5.5,A,a,Teacher,Vacation,0.5,t,f,0.0,f,Verified,80.0,100.0,+
+female,22.5,8.46,B,b,Self-employed,Vacation,2.46,f,f,0.0,f,Verified,164.0,100.0,+
+male,19.67,0.375,A,a,Administative,Vacation,2.0,t,t,2.0,t,Verified,80.0,100.0,+
+male,22.08,11.0,A,a, Manager,Vacation,0.665,t,f,0.0,f,Verified,100.0,100.0,+
+male,25.17,3.5,A,a, Manager,Vacation,0.625,t,t,7.0,f,Verified,100.0,7059.0,+
+female,47.42,3.0,A,a,Self-employed,Vacation,13.875,t,t,2.0,t,Verified,519.0,1704.0,+
+male,33.5,1.75,A,a,Self-employed,Debt consolidation,4.5,t,t,4.0,t,Verified,253.0,857.0,+
+male,27.67,13.75,A,a,Salesman,Vacation,5.75,t,f,0.0,t,Verified,487.0,500.0,+
+female,58.42,21.0,A,a,Attorney,Personal loan,10.0,t,t,13.0,f,Verified,100.0,6700.0,+
+female,20.67,1.835,A,a,Administative,Vacation,2.085,t,t,5.0,f,Verified,220.0,2503.0,+
+male,26.17,0.25,A,a,Attorney,Personal loan,0.0,t,f,0.0,t,Verified,100.0,100.0,+
+male,21.33,7.5,A,a,Police Officer,Vacation,1.415,t,t,1.0,f,Verified,80.0,9800.0,+
+male,42.83,4.625,A,a,Administative,Vacation,4.58,t,f,0.0,f,Not Verified,100.0,100.0,+
+male,38.17,10.125,A,a,Self-employed,Vacation,2.5,t,t,6.0,f,Verified,520.0,196.0,+
+male,20.5,10.0,B,b,Technician,Vacation,2.5,t,f,0.0,f,Not Verified,40.0,100.0,+
+male,48.25,25.085,A,a,Salesman,Vacation,1.75,t,t,3.0,f,Verified,120.0,14.0,+
+male,28.33,5.0,A,a,Salesman,Vacation,11.0,t,f,0.0,t,Verified,70.0,100.0,+
+female,18.75,7.5,A,a,Administative,Vacation,2.71,t,t,5.0,f,Verified,,26726.0,+
+male,18.5,2.0,A,a,Attorney,Vacation,1.5,t,t,2.0,f,Verified,120.0,300.0,+
+male,33.17,3.04,B,b,Technician,Debt consolidation,2.04,t,t,1.0,t,Verified,180.0,18027.0,+
+male,45.0,8.5,A,a, Manager,Debt consolidation,14.0,t,t,1.0,t,Verified,88.0,2000.0,+
+female,19.67,0.21,A,a,Administative,Debt consolidation,0.29,t,t,11.0,f,Verified,80.0,99.0,+
+,24.5,12.75,A,a,Technician,Personal loan,4.75,t,t,2.0,f,Verified,73.0,444.0,+
+male,21.83,11.0,A,a,Self-employed,Vacation,0.29,t,t,6.0,f,Verified,121.0,100.0,+
+male,40.25,21.5,A,a,Nurse,Home improvement,20.0,t,t,11.0,f,Verified,100.0,1200.0,+
+male,41.42,5.0,A,a,Administative,Debt consolidation,5.0,t,t,6.0,t,Verified,470.0,100.0,+
+female,17.83,11.0,A,a,Self-employed,Debt consolidation,1.0,t,t,11.0,f,Verified,100.0,3000.0,+
+male,23.17,11.125,A,a,Self-employed,Debt consolidation,0.46,t,t,1.0,f,Verified,100.0,100.0,+
+male,,0.625,A,a,Teacher,Vacation,0.25,f,f,0.0,f,Verified,380.0,2010.0,-
+male,18.17,10.25,A,a,Technician,Debt consolidation,1.085,f,f,0.0,f,Verified,320.0,13.0,-
+male,20.0,11.045,A,a,Technician,Vacation,2.0,f,f,0.0,t,Verified,136.0,100.0,-
+male,20.0,0.0,A,a,Consultant,Vacation,0.5,f,f,0.0,f,Verified,144.0,100.0,-
+female,20.75,9.54,A,a,Attorney,Vacation,0.04,f,f,0.0,f,Verified,200.0,1000.0,-
+female,24.5,1.75,B,b,Technician,Vacation,0.165,f,f,0.0,f,Verified,132.0,100.0,-
+male,32.75,2.335,A,a,Consultant,Debt consolidation,5.75,f,f,0.0,t,Verified,292.0,100.0,-
+female,52.17,0.0,B,b,Electrician,Weddings,0.0,f,f,0.0,f,Verified,100.0,100.0,-
+female,48.17,1.335,A,a,Attorney,Relocation,0.335,f,f,0.0,f,Verified,100.0,120.0,-
+female,20.42,10.5,B,b,Self-employed,Debt consolidation,0.0,f,f,0.0,t,Verified,154.0,32.0,-
+male,50.75,0.585,A,a,Electrician,Weddings,0.0,f,f,0.0,f,Verified,145.0,100.0,-
+male,17.08,0.085,B,b,Technician,Vacation,0.04,f,f,0.0,f,Verified,140.0,722.0,-
+male,18.33,1.21,B,b,Nurse,Credit card refinancing,0.0,f,f,0.0,f,Verified,100.0,100.0,-
+female,32.0,6.0,A,a,Consultant,Vacation,1.25,f,f,0.0,f,Verified,272.0,100.0,-
+male,59.67,1.54,A,a,Administative,Vacation,0.125,t,f,0.0,t,Verified,260.0,100.0,+
+male,18.0,0.165,A,a,Administative,Medical expenses,0.21,f,f,0.0,f,Verified,200.0,40.0,+
+male,37.58,0.0,,,,,0.0,f,f,0.0,f,Pending,,100.0,+
+male,32.33,2.5,A,a,Technician,Vacation,1.25,f,f,0.0,t,Verified,280.0,100.0,-
+male,18.08,6.75,B,b,Programmer,Vacation,0.04,f,f,0.0,f,Verified,140.0,100.0,-
+male,38.25,10.125,B,b,Teacher,Vacation,0.125,f,f,0.0,f,Verified,160.0,100.0,-
+male,30.67,2.5,A,a, Manager,Debt consolidation,2.25,f,f,0.0,t,Not Verified,340.0,100.0,-
+male,18.58,5.71,A,a,Consultant,Vacation,0.54,f,f,0.0,f,Verified,120.0,100.0,-
+female,19.17,5.415,A,a,Attorney,Debt consolidation,0.29,f,f,0.0,f,Verified,80.0,484.0,-
+female,18.17,10.0,B,b,Administative,Debt consolidation,0.165,f,f,0.0,f,Verified,340.0,100.0,-
+male,24.58,13.5,B,b,Electrician,Weddings,0.0,f,f,0.0,f,Verified,,100.0,-
+male,16.25,0.835,A,a,Programmer,Vacation,0.085,t,f,0.0,f,Not Verified,200.0,100.0,-
+male,21.17,0.875,B,b,Technician,Debt consolidation,0.25,f,f,0.0,f,Verified,280.0,204.0,-
+male,23.92,0.585,B,b, Manager,Debt consolidation,0.125,f,f,0.0,f,Verified,240.0,1.0,-
+male,17.67,4.46,A,a,Technician,Vacation,0.25,f,f,0.0,f,Not Verified,80.0,100.0,-
+female,16.5,1.25,A,a,Administative,Vacation,0.25,f,t,1.0,f,Verified,108.0,98.0,-
+male,23.25,12.625,A,a,Technician,Vacation,0.125,f,t,2.0,f,Verified,100.0,5552.0,-
+male,17.58,10.0,A,a,Salesman,Debt consolidation,0.165,f,t,1.0,f,Verified,120.0,1.0,-
+female,,1.5,A,a,Electrician,Weddings,0.0,f,t,2.0,t,Verified,200.0,105.0,-
+male,29.5,0.58,A,a,Salesman,Vacation,0.29,f,t,1.0,f,Verified,340.0,2803.0,-
+male,18.83,0.415,B,b,Technician,Vacation,0.165,f,t,1.0,f,Verified,200.0,1.0,-
+female,21.75,1.75,B,b,Sportsman,Presents,0.0,f,f,0.0,f,Verified,160.0,100.0,-
+male,23.0,0.75,A,a,Programmer,Vacation,0.5,f,f,0.0,t,Not Verified,320.0,100.0,-
+female,18.25,10.0,A,a,Salesman,Vacation,1.0,f,t,1.0,f,Verified,120.0,1.0,-
+male,25.42,0.54,A,a,Salesman,Vacation,0.165,f,t,1.0,f,Verified,272.0,444.0,-
+male,35.75,2.415,A,a,Salesman,Vacation,0.125,f,t,2.0,f,Verified,220.0,1.0,-
+female,16.08,0.335,A,a,Electrician,Weddings,0.0,f,t,1.0,f,Verified,160.0,126.0,-
+female,31.92,3.125,A,a,Electrician,Weddings,3.04,f,t,2.0,t,Verified,200.0,4.0,-
+male,69.17,9.0,A,a,Electrician,Weddings,4.0,f,t,1.0,f,Verified,70.0,6.0,-
+male,32.92,2.5,A,a,Police Officer,Vacation,1.75,f,t,2.0,t,Verified,720.0,100.0,-
+male,16.33,2.75,A,a,Police Officer,Vacation,0.665,f,t,1.0,f,Verified,80.0,21.0,-
+male,22.17,12.125,A,a,Technician,Vacation,3.335,f,t,2.0,t,Verified,180.0,173.0,-
+female,57.58,2.0,A,a,Electrician,Weddings,6.5,f,t,1.0,f,Verified,100.0,10.0,-
+male,18.25,0.165,A,a,Consultant,Vacation,0.25,f,f,0.0,t,Not Verified,280.0,100.0,-
+male,23.42,1.0,A,a,Technician,Vacation,0.5,f,f,0.0,t,Not Verified,280.0,100.0,-
+female,15.92,2.875,A,a,Administative,Vacation,0.085,f,f,0.0,f,Verified,120.0,100.0,-
+female,24.75,13.665,A,a,Administative,Debt consolidation,1.5,f,f,0.0,f,Verified,280.0,1.0,-
+male,48.75,26.335,B,b,Electrician,Weddings,0.0,t,f,0.0,t,Verified,100.0,100.0,-
+male,23.5,2.75,A,a,Electrician,Weddings,4.5,f,f,0.0,f,Verified,160.0,25.0,-
+male,18.58,10.29,A,a,Electrician,Weddings,0.415,f,f,0.0,f,Verified,80.0,100.0,-
+male,27.75,1.29,A,a,Teacher,Debt consolidation,0.25,f,f,0.0,t,Not Verified,140.0,100.0,-
+female,31.75,3.0,B,b,Sportsman,Presents,0.0,f,f,0.0,f,Verified,160.0,20.0,-
+female,24.83,4.5,A,a,Salesman,Vacation,1.0,f,f,0.0,t,Verified,360.0,6.0,-
+male,19.0,1.75,B,b,Technician,Vacation,2.335,f,f,0.0,t,Verified,112.0,6.0,-
+female,16.33,0.21,A,a,Police Officer,Vacation,0.125,f,f,0.0,f,Verified,200.0,1.0,-
+female,18.58,10.0,A,a,Consultant,Vacation,0.415,f,f,0.0,f,Verified,80.0,42.0,-
+male,16.25,0.0,B,b,Police Officer,Vacation,0.25,f,f,0.0,f,Verified,60.0,100.0,-
+male,23.0,0.75,A,a,Programmer,Vacation,0.5,t,f,0.0,t,Not Verified,320.0,100.0,-
+male,21.17,0.25,B,b,Technician,Debt consolidation,0.25,f,f,0.0,f,Verified,280.0,204.0,-
+male,17.5,22.0,C,c,Electrician,Relocation,0.0,f,f,0.0,t,Pending,450.0,100000.0,+
+male,19.17,0.0,B,b,Programmer,Personal loan,0.0,f,f,0.0,t,Not Verified,500.0,1.0,+
+male,36.75,0.125,B,b,Technician,Vacation,1.5,f,f,0.0,t,Verified,232.0,113.0,+
+male,21.25,1.5,A,a,Salesman,Vacation,1.5,f,f,0.0,f,Verified,150.0,8.0,+
+female,18.08,0.375,C,c, Manager,Weddings,10.0,f,f,0.0,t,Not Verified,300.0,100.0,+
+female,33.67,0.375,A,a, Manager,Vacation,0.375,f,f,0.0,f,Verified,300.0,44.0,+
+male,48.58,0.205,B,b,Teacher,Vacation,0.25,t,t,11.0,f,Verified,380.0,2732.0,+
+male,33.67,1.25,A,a,Salesman,Vacation,1.165,f,f,0.0,f,Verified,120.0,100.0,-
+female,29.5,1.085,B,b,Self-employed,Vacation,1.0,f,f,0.0,f,Verified,280.0,13.0,-
+male,30.17,1.085,B,b,Technician,Vacation,0.04,f,f,0.0,f,Verified,170.0,179.0,-
+,40.83,3.5,A,a,Attorney,Personal loan,0.5,f,f,0.0,f,Not Verified,1160.0,100.0,-
+male,34.83,2.5,B,b,Salesman,Vacation,3.0,f,f,0.0,f,Not Verified,200.0,100.0,-
+male,,4.0,B,b,Attorney,Vacation,0.085,f,f,0.0,t,Verified,411.0,100.0,-
+male,20.42,0.0,,,,,0.0,f,f,0.0,f,Pending,,100.0,-
+female,33.25,2.5,B,b,Technician,Vacation,2.5,f,f,0.0,t,Verified,100.0,2.0,-
+male,34.08,2.5,A,a,Technician,Vacation,1.0,f,f,0.0,f,Verified,460.0,16.0,-
+female,25.25,12.5,A,a,Consultant,Vacation,1.0,f,f,0.0,t,Verified,180.0,1062.0,-
+male,34.75,2.5,A,a, Manager,Personal loan,0.5,f,f,0.0,f,Verified,348.0,100.0,-
+male,27.67,0.75,A,a,Administative,Debt consolidation,0.165,f,f,0.0,t,Verified,220.0,251.0,-
+male,47.33,6.5,A,a,Technician,Vacation,1.0,f,f,0.0,t,Verified,100.0,228.0,-
+female,34.83,1.25,B,b,Attorney,Debt consolidation,0.5,f,f,0.0,t,Verified,160.0,100.0,-
+female,33.25,3.0,B,b,Police Officer,Vacation,2.0,f,f,0.0,f,Verified,180.0,100.0,-
+male,28.0,3.0,A,a,Salesman,Vacation,0.75,f,f,0.0,t,Verified,300.0,67.0,-
+female,39.08,4.0,A,a,Technician,Vacation,3.0,f,f,0.0,f,Verified,480.0,100.0,-
+male,42.75,4.085,A,a,Police Officer,Vacation,0.04,f,f,0.0,f,Verified,108.0,100.0,-
+male,26.92,2.25,A,a,Attorney,Personal loan,0.5,f,f,0.0,t,Verified,640.0,4000.0,-
+male,33.75,2.75,A,a,Attorney,Personal loan,0.0,f,f,0.0,f,Verified,180.0,100.0,-
+male,38.92,1.75,A,a,Teacher,Vacation,0.5,f,f,0.0,t,Verified,300.0,2.0,-
+male,62.75,7.0,A,a,Nurse,Home improvement,0.0,f,f,0.0,f,Verified,100.0,12.0,-
+,32.25,1.5,A,a,Technician,Vacation,0.25,f,f,0.0,t,Verified,372.0,122.0,-
+male,26.75,4.5,B,b,Technician,Personal loan,2.5,f,f,0.0,f,Verified,200.0,1210.0,-
+male,63.33,0.54,A,a,Technician,Vacation,0.585,t,t,3.0,t,Verified,180.0,100.0,-
+male,27.83,1.5,A,a,Salesman,Vacation,2.25,f,t,1.0,t,Verified,100.0,3.0,-
+female,26.17,2.0,A,a,Sportsman,Presents,0.0,f,f,0.0,t,Verified,276.0,1.0,-
+male,22.17,0.585,B,b,Electrician,Weddings,0.0,f,f,0.0,f,Verified,100.0,100.0,-
+male,22.5,11.5,B,b,Programmer,Vacation,1.5,f,f,0.0,t,Verified,100.0,4000.0,-
+male,30.75,1.585,A,a,Consultant,Vacation,0.585,f,f,0.0,t,Not Verified,100.0,100.0,-
+male,36.67,2.0,A,a,Attorney,Vacation,0.25,f,f,0.0,t,Verified,221.0,100.0,-
+female,16.0,0.165,A,a,Police Officer,Vacation,1.0,f,t,2.0,t,Verified,320.0,1.0,-
+male,41.17,1.335,A,a,Consultant,Vacation,0.165,f,f,0.0,f,Verified,168.0,100.0,-
+female,19.5,0.165,A,a,Administative,Vacation,0.04,f,f,0.0,t,Verified,380.0,100.0,-
+male,32.42,3.0,A,a,Consultant,Vacation,0.165,f,f,0.0,t,Verified,120.0,100.0,-
+female,36.75,4.71,A,a,Electrician,Weddings,0.0,f,f,0.0,f,Verified,160.0,100.0,-
+female,30.25,5.5,A,a,Teacher,Vacation,5.5,f,f,0.0,t,Not Verified,100.0,100.0,-
+male,23.08,2.5,A,a,Electrician,Weddings,0.085,f,f,0.0,t,Verified,100.0,4208.0,-
+male,26.83,0.54,A,a,Teacher,Weddings,0.0,f,f,0.0,f,Verified,100.0,100.0,-
+male,16.92,0.335,B,b,Teacher,Vacation,0.29,f,f,0.0,f,Not Verified,200.0,100.0,-
+male,24.42,2.0,A,a,Nurse,Credit card refinancing,0.165,f,t,2.0,f,Verified,320.0,1300.0,-
+male,42.83,1.25,A,a,Programmer,Vacation,13.875,f,t,1.0,t,Verified,352.0,112.0,-
+female,22.75,6.165,A,a,Police Officer,Vacation,0.165,f,f,0.0,f,Verified,220.0,1000.0,-
+male,39.42,1.71,B,b,Programmer,Vacation,0.165,f,f,0.0,f,Not Verified,400.0,100.0,-
+female,23.58,11.5,B,b,Teacher,Debt consolidation,3.0,f,f,0.0,t,Verified,20.0,16.0,-
+male,21.42,0.75,B,b,Driver,Medical expenses,0.75,f,f,0.0,t,Verified,132.0,2.0,-
+male,33.0,2.5,B,b,Salesman,Vacation,7.0,f,f,0.0,t,Verified,280.0,100.0,-
+male,26.33,13.0,A,a,Nurse,Credit card refinancing,0.0,f,f,0.0,t,Verified,140.0,1110.0,-
+female,45.0,4.585,A,a,Teacher,Debt consolidation,1.0,f,f,0.0,t,Not Verified,240.0,100.0,-
+male,26.25,1.54,A,a,Salesman,Vacation,0.125,f,f,0.0,f,Verified,100.0,100.0,-
+,28.17,0.585,A,a,Police Officer,Vacation,0.04,f,f,0.0,f,Verified,260.0,1004.0,-
+female,20.83,0.5,B,b,Nurse,Credit card refinancing,1.0,f,f,0.0,f,Verified,260.0,100.0,-
+male,28.67,14.5,A,a,Consultant,Vacation,0.125,f,f,0.0,f,Verified,100.0,286.0,-
+male,20.67,0.835,B,b,Technician,Vacation,2.0,f,f,0.0,t,Not Verified,240.0,100.0,-
+male,34.42,1.335,A,a,Attorney,Personal loan,0.125,f,f,0.0,t,Verified,440.0,4500.0,-
+male,33.58,0.25,A,a,Attorney,Personal loan,4.0,f,f,0.0,t,Not Verified,420.0,100.0,-
+male,43.17,5.0,A,a,Attorney,Personal loan,2.25,f,f,0.0,t,Verified,141.0,100.0,-
+female,22.67,7.0,A,a,Technician,Vacation,0.165,f,f,0.0,f,Verified,160.0,100.0,-
+female,24.33,2.5,B,b,Attorney,Personal loan,4.5,f,f,0.0,f,Verified,200.0,456.0,-
+female,56.83,4.25,B,b,Electrician,Weddings,5.0,f,f,0.0,t,Verified,100.0,4.0,-
+male,22.08,11.46,A,a,Teacher,Vacation,1.585,f,f,0.0,t,Verified,100.0,1212.0,-
+male,34.0,5.5,B,b,Technician,Vacation,1.5,f,f,0.0,t,Verified,60.0,100.0,-
+male,22.58,1.5,B,b,Police Officer,Vacation,0.54,f,f,0.0,t,Verified,120.0,67.0,-
+male,21.17,0.0,A,a,Technician,Vacation,0.5,f,f,0.0,t,Not Verified,100.0,100.0,-
+male,26.67,14.585,A,a,Attorney,Personal loan,0.0,f,f,0.0,t,Verified,178.0,100.0,-
+male,22.92,0.17,A,a,Programmer,Vacation,0.085,f,f,0.0,f,Not Verified,100.0,100.0,-
+male,15.17,7.0,A,a,Nurse,Vacation,1.0,f,f,0.0,f,Verified,600.0,100.0,-
+male,39.92,5.0,A,a,Attorney,Personal loan,0.21,f,f,0.0,f,Verified,550.0,100.0,-
+male,27.42,12.5,A,a,Police Officer,Personal loan,0.25,f,f,0.0,t,Verified,720.0,100.0,-
+male,24.75,0.54,A,a,Programmer,Vacation,1.0,f,f,0.0,t,Verified,120.0,1.0,-
+male,41.17,1.25,B,b,Salesman,Vacation,0.25,f,f,0.0,f,Verified,100.0,195.0,-
+female,33.08,1.625,A,a,Consultant,Vacation,0.54,f,f,0.0,t,Verified,100.0,100.0,-
+male,29.83,2.04,B,b,Self-employed,Debt consolidation,0.04,f,f,0.0,f,Verified,128.0,1.0,-
+female,23.58,0.585,B,b,Electrician,Weddings,0.125,f,f,0.0,f,Verified,120.0,87.0,-
+male,26.17,12.5,B,b,Teacher,Debt consolidation,1.25,f,f,0.0,t,Verified,100.0,17.0,-
+male,31.0,2.085,A,a,Technician,Vacation,0.085,f,f,0.0,f,Verified,300.0,100.0,-
+male,20.75,5.085,B,b,Sportsman,Vacation,0.29,f,f,0.0,f,Verified,140.0,184.0,-
+male,28.92,0.375,A,a,Technician,Vacation,0.29,f,f,0.0,f,Verified,220.0,140.0,-
+female,51.92,6.5,A,a,Attorney,Personal loan,3.085,f,f,0.0,t,Verified,73.0,100.0,-
+female,22.67,0.335,A,a,Administative,Vacation,0.75,f,f,0.0,f,Not Verified,160.0,100.0,-
+male,34.0,5.085,B,b,Attorney,Personal loan,1.085,f,f,0.0,t,Verified,480.0,100.0,-
+female,69.5,6.0,A,a,Electrician,Weddings,0.0,f,f,0.0,f,Not Verified,100.0,100.0,-
+female,40.33,8.125,B,b,Teacher,Vacation,0.165,f,t,2.0,f,Verified,,18.0,-
+female,19.58,0.665,B,b,Technician,Vacation,1.0,f,t,1.0,f,Verified,2000.0,2.0,-
+male,16.0,3.125,A,a,Salesman,Vacation,0.085,f,t,1.0,f,Verified,100.0,6.0,-
+male,17.08,0.25,A,a,Administative,Vacation,0.335,f,t,4.0,f,Verified,160.0,8.0,-
+male,31.25,2.835,A,a,Electrician,Weddings,0.0,f,t,5.0,f,Verified,176.0,146.0,-
+male,25.17,3.0,A,a,Technician,Vacation,1.25,f,t,1.0,f,Verified,100.0,22.0,-
+female,22.67,0.79,A,a,Attorney,Vacation,0.085,f,f,0.0,f,Verified,144.0,100.0,-
+male,40.58,1.5,A,a,Attorney,Personal loan,0.0,f,f,0.0,f,Not Verified,300.0,100.0,-
+male,22.25,0.46,A,a,Teacher,Vacation,0.125,f,f,0.0,t,Verified,280.0,55.0,-
+female,22.25,1.25,B,b,Electrician,Weddings,3.25,f,f,0.0,f,Verified,280.0,100.0,-
+male,22.5,0.125,B,b,Teacher,Vacation,0.125,f,f,0.0,f,Verified,200.0,70.0,-
+male,23.58,1.79,A,a,Technician,Vacation,0.54,f,f,0.0,t,Verified,136.0,1.0,-
+male,38.42,0.705,A,a,Technician,Vacation,0.375,f,t,2.0,f,Verified,225.0,500.0,-
+female,26.58,2.54,B,b,Electrician,Weddings,0.0,f,f,0.0,t,Verified,180.0,60.0,-
+male,35.0,2.5,A,a,Attorney,Vacation,1.0,f,f,0.0,t,Verified,210.0,100.0,-
+male,20.42,1.085,A,a,Administative,Vacation,1.5,f,f,0.0,f,Verified,108.0,7.0,-
+male,29.42,1.25,A,a,Salesman,Vacation,1.75,f,f,0.0,f,Verified,200.0,100.0,-
+male,26.17,0.835,A,a, Manager,Vacation,1.165,f,f,0.0,f,Verified,100.0,100.0,-
+male,33.67,2.165,A,a,Technician,Vacation,1.5,f,f,0.0,f,Pending,120.0,100.0,-
+male,24.58,1.25,A,a,Technician,Vacation,0.25,f,f,0.0,f,Verified,110.0,100.0,-
+female,27.67,2.04,A,a,Salesman,Vacation,0.25,f,f,0.0,t,Verified,180.0,50.0,-
+male,37.5,0.835,A,a,Nurse,Vacation,0.04,f,f,0.0,f,Verified,120.0,5.0,-
+male,49.17,2.29,A,a,Electrician,Weddings,0.29,f,f,0.0,f,Verified,200.0,3.0,-
+male,33.58,0.335,B,b, Manager,Vacation,0.085,f,f,0.0,f,Verified,180.0,100.0,-
+male,51.83,3.0,B,b,Electrician,Weddings,1.5,f,f,0.0,f,Verified,180.0,4.0,-
+male,22.92,3.165,B,b,Technician,Vacation,0.165,f,f,0.0,f,Verified,160.0,1058.0,-
+male,21.83,1.54,A,a,Teacher,Vacation,0.085,f,f,0.0,t,Verified,356.0,100.0,-
+male,25.25,1.0,A,a,Police Officer,Vacation,0.5,f,f,0.0,f,Verified,200.0,100.0,-
+male,58.58,2.71,A,a,Technician,Vacation,2.415,f,f,0.0,t,Verified,320.0,100.0,-
+male,19.0,0.0,B,b,Electrician,Weddings,0.0,f,t,4.0,f,Verified,45.0,1.0,-
+male,19.58,0.585,A,a,Electrician,Weddings,0.0,f,t,3.0,f,Verified,350.0,769.0,-
+female,53.33,0.165,A,a,Electrician,Weddings,0.0,f,f,0.0,t,Not Verified,62.0,27.0,-
+female,27.17,1.25,A,a,Electrician,Weddings,0.0,f,t,1.0,f,Verified,92.0,300.0,-
+male,25.92,0.875,A,a,Teacher,Vacation,0.375,f,t,2.0,t,Verified,174.0,3.0,-
+male,23.08,0.0,A,a,Teacher,Vacation,1.0,f,t,11.0,f,Not Verified,100.0,100.0,-
+male,39.58,5.0,A,a,Electrician,Weddings,0.0,f,t,2.0,f,Verified,17.0,1.0,-
+male,30.58,2.71,B,b,Programmer,Vacation,0.125,f,f,0.0,t,Not Verified,80.0,100.0,-
+male,17.25,3.0,A,a,Teacher,Vacation,0.04,f,f,0.0,t,Verified,160.0,40.0,-
+female,17.67,0.0,B,b,Sportsman,Weddings,0.0,f,f,0.0,f,Verified,86.0,100.0,-
+female,,11.25,A,a,Electrician,Weddings,0.0,f,f,0.0,f,Verified,,5200.0,-
+male,16.5,0.125,A,a,Technician,Vacation,0.165,f,f,0.0,f,Verified,132.0,100.0,-
+female,27.33,1.665,A,a,Electrician,Weddings,0.0,f,f,0.0,f,Verified,340.0,1.0,-
+male,31.25,1.125,A,a,Electrician,Weddings,0.0,f,t,1.0,f,Verified,96.0,19.0,-
+male,20.0,7.0,A,a,Technician,Vacation,0.5,f,f,0.0,f,Verified,100.0,100.0,-
+male,,3.0,B,b,Attorney,Personal loan,7.0,f,f,0.0,f,Verified,100.0,1.0,-
+male,39.5,1.625,A,a,Technician,Vacation,1.5,f,f,0.0,f,Verified,100.0,316.0,-
+male,36.5,4.25,A,a,Administative,Vacation,3.5,f,f,0.0,f,Verified,454.0,50.0,-
+,29.75,0.665,A,a,Salesman,Vacation,0.25,f,f,0.0,t,Verified,300.0,100.0,-
+male,52.42,1.5,A,a,Consultant,Vacation,3.75,f,f,0.0,t,Verified,100.0,350.0,-
+male,36.17,18.125,A,a,Salesman,Vacation,0.085,f,f,0.0,f,Verified,320.0,3552.0,-
+male,34.58,0.0,,,,,0.0,f,f,0.0,f,Pending,,100.0,-
+male,29.67,0.75,B,b,Technician,Vacation,0.04,f,f,0.0,f,Verified,240.0,100.0,-
+male,36.17,5.5,A,a,Attorney,Personal loan,5.0,f,f,0.0,f,Verified,210.0,687.0,-
+male,25.67,0.29,B,b,Technician,Vacation,1.5,f,f,0.0,t,Verified,160.0,100.0,-
+female,24.5,2.415,B,b,Technician,Vacation,0.0,f,f,0.0,f,Verified,120.0,100.0,-
+male,24.08,0.875,A,a,Programmer,Vacation,0.085,f,t,4.0,f,Verified,254.0,1950.0,-
+male,21.92,0.5,A,a,Technician,Vacation,0.125,f,f,0.0,f,Verified,360.0,100.0,-
+female,36.58,0.29,A,a,Electrician,Weddings,0.0,f,t,10.0,f,Verified,200.0,18.0,-
+female,23.0,1.835,A,a,Sportsman,Presents,0.0,f,t,1.0,f,Verified,200.0,53.0,-
+female,27.58,3.0,A,a,Programmer,Vacation,2.79,f,t,1.0,t,Verified,280.0,10.0,-
+male,31.08,3.085,A,a,Technician,Vacation,2.5,f,t,2.0,t,Verified,160.0,41.0,-
+female,30.42,1.375,A,a,Salesman,Debt consolidation,0.04,f,t,3.0,f,Verified,100.0,33.0,-
+male,22.08,2.335,A,a,Teacher,Vacation,0.75,f,f,0.0,f,Verified,180.0,100.0,-
+male,16.33,4.085,A,a,Attorney,Debt consolidation,0.415,f,f,0.0,t,Verified,120.0,100.0,-
+female,21.92,11.665,A,a,Teacher,Debt consolidation,0.085,f,f,0.0,f,Verified,320.0,5.0,-
+male,21.08,4.125,B,b,Attorney,Debt consolidation,0.04,f,f,0.0,f,Verified,140.0,100.0,-
+male,17.42,6.5,A,a,Attorney,Vacation,0.125,f,f,0.0,f,Verified,60.0,100.0,-
+male,19.17,4.0,B,b,Attorney,Vacation,1.0,f,f,0.0,t,Verified,360.0,1000.0,-
+male,20.67,0.415,A,a,Technician,Vacation,0.125,f,f,0.0,f,Verified,100.0,44.0,-
+male,26.75,2.0,A,a,Consultant,Vacation,0.75,f,f,0.0,t,Verified,80.0,100.0,-
+male,23.58,0.835,A,a,Attorney,Debt consolidation,0.085,f,f,0.0,t,Verified,220.0,5.0,-
+male,39.17,2.5,B,b,Attorney,Debt consolidation,10.0,f,f,0.0,t,Not Verified,200.0,100.0,-
+male,22.75,11.5,A,a,Attorney,Vacation,0.415,f,f,0.0,f,Verified,100.0,100.0,-
+,26.5,2.71,B,b,,,0.085,f,f,0.0,f,Not Verified,80.0,100.0,-
+female,16.92,0.5,A,a,Attorney,Vacation,0.165,f,t,6.0,t,Verified,240.0,35.0,-
+male,23.5,3.165,B,b,Teacher,Vacation,0.415,f,t,1.0,t,Verified,280.0,80.0,-
+female,17.33,9.5,A,a,Police Officer,Vacation,1.75,f,t,10.0,t,Verified,100.0,10.0,-
+male,23.75,0.415,B,b,Technician,Vacation,0.04,f,t,2.0,f,Verified,128.0,6.0,-
+male,34.67,1.08,A,a,Programmer,Vacation,1.165,f,f,0.0,f,Not Verified,28.0,100.0,-
+male,74.83,19.0,B,b,Electrician,Weddings,0.04,f,t,2.0,f,Verified,100.0,351.0,-
+male,28.17,0.125,B,b,Teacher,Vacation,0.085,f,f,0.0,f,Verified,216.0,2100.0,-
+male,24.5,13.335,B,b,Police Officer,Vacation,0.04,f,f,0.0,t,Verified,120.0,475.0,-
+male,18.83,3.54,B,b,Electrician,Weddings,0.0,f,f,0.0,t,Verified,180.0,1.0,-
+,45.33,1.0,A,a,Administative,Vacation,0.125,f,f,0.0,t,Verified,263.0,100.0,-
+female,47.25,0.75,A,a,Administative,Debt consolidation,2.75,t,t,1.0,f,Verified,333.0,892.0,+
+male,24.17,0.875,A,a,Administative,Vacation,4.625,t,t,2.0,t,Verified,520.0,2000.0,+
+male,39.25,9.5,A,a,Programmer,Vacation,6.5,t,t,14.0,f,Verified,240.0,4607.0,+
+female,20.5,11.835,A,a,Technician,Debt consolidation,6.0,t,f,0.0,f,Verified,340.0,100.0,+
+female,18.83,4.415,B,b,Technician,Debt consolidation,3.0,t,f,0.0,f,Verified,240.0,100.0,+
+male,19.17,9.5,A,a,Salesman,Vacation,1.5,t,f,0.0,f,Verified,120.0,2206.0,+
+female,25.0,0.875,A,a,Self-employed,Debt consolidation,1.04,t,f,0.0,t,Verified,160.0,5860.0,+
+male,20.17,9.25,A,a,Technician,Vacation,1.665,t,t,3.0,t,Verified,40.0,28.0,+
+male,25.75,0.5,A,a,Technician,Vacation,1.46,t,t,5.0,t,Verified,312.0,100.0,+
+male,20.42,7.0,A,a,Technician,Vacation,1.625,t,t,3.0,f,Verified,200.0,1391.0,+
+male,,4.0,A,a,Self-employed,Vacation,5.0,t,t,3.0,t,Verified,290.0,2279.0,+
+male,39.0,5.0,A,a, Manager,Vacation,3.5,t,t,10.0,t,Verified,100.0,100.0,+
+female,64.08,0.165,A,a,Electrician,Weddings,0.0,t,t,1.0,f,Verified,232.0,100.0,+
+male,28.25,5.125,A,a,Self-employed,Vacation,4.75,t,t,2.0,f,Verified,420.0,7.0,+
+female,28.75,3.75,A,a,Technician,Vacation,1.085,t,t,1.0,t,Verified,371.0,100.0,+
+male,31.33,19.5,A,a,Technician,Vacation,7.0,t,t,16.0,f,Verified,100.0,5000.0,+
+female,18.92,9.0,A,a,Police Officer,Vacation,0.75,t,t,2.0,f,Verified,88.0,591.0,+
+female,24.75,3.0,A,a,Administative,Debt consolidation,1.835,t,t,19.0,f,Verified,100.0,500.0,+
+female,30.67,12.0,A,a,Technician,Vacation,2.0,t,t,1.0,f,Verified,220.0,19.0,+
+male,21.0,4.79,B,b,Salesman,Vacation,2.25,t,t,1.0,t,Verified,80.0,300.0,+
+male,13.75,4.0,B,b,Salesman,Vacation,1.75,t,t,2.0,t,Verified,120.0,1000.0,+
+female,46.0,4.0,A,a,Sportsman,Presents,0.0,t,f,0.0,f,Verified,100.0,960.0,+
+female,44.33,0.0,A,a,Technician,Vacation,2.5,t,f,0.0,f,Verified,100.0,100.0,+
+male,20.25,9.96,A,a,Nurse,Credit card refinancing,0.0,t,f,0.0,f,Verified,100.0,100.0,+
+male,22.67,2.54,B,b,Technician,Debt consolidation,2.585,t,f,0.0,f,Verified,100.0,100.0,+
+male,,10.5,A,a,Self-employed,Vacation,6.5,t,f,0.0,f,Verified,100.0,100.0,+
+female,60.92,5.0,A,a,Police Officer,Vacation,4.0,t,t,4.0,f,Verified,100.0,99.0,+
+male,16.08,0.75,A,a,Technician,Vacation,1.75,t,t,5.0,t,Verified,352.0,690.0,+
+female,28.17,0.375,A,a,Administative,Vacation,0.585,t,t,4.0,f,Verified,80.0,100.0,+
+male,39.17,1.71,A,a,Self-employed,Vacation,0.125,t,t,5.0,t,Verified,480.0,100.0,+
+,20.42,7.5,A,a,Teacher,Vacation,1.5,t,t,1.0,f,Verified,160.0,234.0,+
+female,30.0,5.29,A,a,Nurse,Credit card refinancing,2.25,t,t,5.0,t,Verified,99.0,500.0,+
+male,22.83,3.0,A,a,Programmer,Vacation,1.29,t,t,1.0,f,Verified,260.0,800.0,+
+female,22.5,8.5,A,a,Administative,Vacation,1.75,t,t,10.0,f,Verified,80.0,990.0,-
+female,28.58,1.665,A,a,Administative,Vacation,2.415,t,f,0.0,t,Verified,440.0,100.0,-
+male,45.17,1.5,A,a,Technician,Vacation,2.5,t,f,0.0,t,Verified,140.0,100.0,-
+male,41.58,1.75,A,a,Teacher,Vacation,0.21,t,f,0.0,f,Verified,160.0,100.0,-
+female,57.08,0.335,A,a,Attorney,Personal loan,1.0,t,f,0.0,t,Verified,252.0,2197.0,-
+female,55.75,7.08,A,a,Teacher,Debt consolidation,6.75,t,t,3.0,t,Verified,100.0,50.0,-
+male,43.25,25.21,A,a,Administative,Debt consolidation,0.21,t,t,1.0,f,Verified,760.0,90.0,-
+female,25.33,2.085,A,a,Technician,Debt consolidation,2.75,t,f,0.0,t,Verified,360.0,1.0,-
+female,24.58,0.67,A,a,Police Officer,Debt consolidation,1.75,t,f,0.0,f,Verified,400.0,100.0,-
+male,43.17,2.25,A,a,Attorney,Personal loan,0.75,t,f,0.0,f,Verified,560.0,100.0,-
+male,40.92,0.835,A,a,Electrician,Weddings,0.0,t,f,0.0,f,Verified,130.0,1.0,-
+male,31.83,2.5,A,a,Police Officer,Vacation,7.5,t,f,0.0,t,Verified,523.0,100.0,-
+female,33.92,1.585,B,b,Electrician,Weddings,0.0,t,f,0.0,f,Verified,320.0,100.0,-
+female,24.92,1.25,A,a,Electrician,Weddings,0.0,t,f,0.0,f,Verified,80.0,100.0,-
+male,35.25,3.165,A,a,Self-employed,Debt consolidation,3.75,t,f,0.0,t,Verified,680.0,100.0,-
+male,34.25,1.75,A,a,Salesman,Personal loan,0.25,t,f,0.0,t,Verified,163.0,100.0,-
+male,80.25,5.5,A,a,,,0.54,t,f,0.0,f,Verified,100.0,340.0,-
+male,19.42,1.5,B,b, Manager,Vacation,2.0,t,f,0.0,t,Verified,100.0,20.0,-
+male,42.75,3.0,A,a,Attorney,Personal loan,1.0,t,f,0.0,f,Verified,100.0,200.0,-
+male,19.67,10.0,B,b,Teacher,Debt consolidation,0.835,t,f,0.0,t,Verified,140.0,100.0,-
+male,36.33,3.79,A,a,Salesman,Vacation,1.165,t,f,0.0,t,Verified,200.0,100.0,-
+male,30.08,1.04,B,b,Attorney,Personal loan,0.5,t,t,10.0,t,Verified,132.0,28.0,-
+male,44.25,11.0,B,b,Consultant,Vacation,1.5,t,f,0.0,f,Not Verified,100.0,100.0,-
+male,23.58,0.46,B,b,Salesman,Vacation,2.625,t,t,6.0,t,Verified,208.0,347.0,-
+male,23.92,1.5,A,a,Consultant,Debt consolidation,1.875,t,t,6.0,f,Verified,200.0,327.0,+
+male,33.17,1.0,A,a,Self-employed,Vacation,0.75,t,t,7.0,t,Verified,340.0,4071.0,+
+male,48.33,12.0,A,a,Programmer,Vacation,16.0,t,f,0.0,f,Not Verified,110.0,100.0,+
+male,76.75,22.29,A,a,Nurse,Home improvement,12.75,t,t,1.0,t,Verified,100.0,109.0,+
+male,51.33,10.0,A,a,Attorney,Personal loan,0.0,t,t,11.0,f,Verified,100.0,1249.0,+
+male,34.75,15.0,A,a,Driver,Medical expenses,5.375,t,t,9.0,t,Verified,100.0,134.0,+
+male,38.58,3.335,A,a,Salesman,Vacation,4.0,t,t,14.0,f,Verified,383.0,1344.0,+
+female,22.42,11.25,B,b,Self-employed,Debt consolidation,0.75,t,t,4.0,f,Verified,100.0,321.0,+
+male,41.92,0.42,A,a,Technician,Debt consolidation,0.21,t,t,6.0,f,Verified,220.0,948.0,+
+male,29.58,4.5,A,a,Salesman,Vacation,7.5,t,t,2.0,t,Verified,330.0,100.0,+
+female,32.17,1.46,A,a,Salesman,Vacation,1.085,t,t,16.0,f,Verified,120.0,2079.0,+
+male,51.42,0.04,A,a,Self-employed,Debt consolidation,0.04,t,f,0.0,f,Verified,100.0,3000.0,+
+female,22.83,2.29,A,a,Administative,Debt consolidation,2.29,t,t,7.0,t,Verified,140.0,2384.0,+
+female,25.0,12.33,A,a, Manager,Debt consolidation,3.5,t,t,6.0,f,Verified,400.0,458.0,+
+male,26.75,1.125,A,a,Self-employed,Debt consolidation,1.25,t,f,0.0,f,Verified,100.0,5298.0,+
+male,23.33,1.5,A,a,Technician,Debt consolidation,1.415,t,f,0.0,f,Verified,422.0,200.0,+
+male,24.42,12.335,A,a,Administative,Debt consolidation,1.585,t,f,0.0,t,Verified,120.0,100.0,+
+male,42.17,5.04,A,a,Administative,Debt consolidation,12.75,t,f,0.0,t,Verified,92.0,100.0,+
+female,20.83,3.0,A,a,Police Officer,Vacation,0.04,t,f,0.0,f,Verified,100.0,100.0,+
+male,23.08,11.5,A,a,Salesman,Debt consolidation,2.125,t,t,11.0,t,Verified,290.0,284.0,+
+female,25.17,2.875,A,a,Self-employed,Debt consolidation,0.875,t,f,0.0,f,Verified,360.0,100.0,+
+male,43.08,0.375,B,b,Technician,Vacation,0.375,t,t,8.0,t,Verified,300.0,162.0,+
+female,35.75,0.915,A,a,Police Officer,Vacation,0.75,t,t,4.0,f,Verified,100.0,1583.0,+
+male,59.5,2.75,A,a,Salesman,Vacation,1.75,t,t,5.0,t,Verified,60.0,58.0,+
+male,21.0,3.0,B,b,Consultant,Vacation,1.085,t,t,8.0,t,Verified,160.0,1.0,+
+male,21.92,0.54,B,b,Self-employed,Vacation,0.04,t,t,1.0,t,Verified,840.0,59.0,+
+female,65.17,14.0,A,a,Electrician,Weddings,0.0,t,t,11.0,t,Verified,100.0,1400.0,+
+female,20.33,10.0,A,a,Technician,Debt consolidation,1.0,t,t,4.0,f,Verified,50.0,1465.0,+
+male,32.25,0.165,B,b,Technician,Debt consolidation,3.25,t,t,1.0,t,Verified,432.0,8000.0,+
+male,30.17,0.5,A,a,Technician,Vacation,1.75,t,t,11.0,f,Verified,32.0,540.0,+
+male,25.17,6.0,A,a,Technician,Vacation,1.0,t,t,3.0,f,Verified,100.0,100.0,+
+male,39.17,1.625,A,a,Technician,Vacation,1.5,t,t,10.0,f,Verified,186.0,4700.0,+
+male,39.08,6.0,A,a,Programmer,Vacation,1.29,t,t,5.0,t,Verified,108.0,1097.0,+
+male,31.67,0.83,A,a,Self-employed,Vacation,1.335,t,t,8.0,t,Verified,303.0,3290.0,+
+male,41.0,0.04,A,a,Nurse,Vacation,0.04,f,t,1.0,f,Not Verified,560.0,100.0,+
+male,48.5,4.25,A,a,Programmer,Vacation,0.125,t,f,0.0,t,Verified,225.0,100.0,+
+male,32.67,9.0,B,b,Salesman,Debt consolidation,5.25,t,f,0.0,t,Verified,154.0,100.0,+
+female,28.08,15.0,B,b,Nurse,Home improvement,0.0,t,f,0.0,f,Verified,100.0,13212.0,+
+male,73.42,17.75,A,a,Electrician,Weddings,0.0,t,f,0.0,t,Verified,100.0,100.0,+
+male,64.08,20.0,A,a,Self-employed,Debt consolidation,17.5,t,t,9.0,t,Verified,100.0,1000.0,+
+male,51.58,15.0,A,a,Technician,Vacation,8.5,t,t,9.0,f,Verified,100.0,100.0,+
+male,26.67,1.75,B,b,Technician,Vacation,1.0,t,t,5.0,t,Verified,160.0,5777.0,+
+male,25.33,0.58,A,a,Technician,Vacation,0.29,t,t,7.0,t,Verified,96.0,5124.0,+
+male,30.17,6.5,A,a, Manager,Vacation,3.125,t,t,8.0,f,Verified,330.0,1200.0,+
+male,27.0,0.75,A,a,Technician,Debt consolidation,4.25,t,t,3.0,t,Verified,312.0,150.0,+
+male,23.17,0.0,,,,,0.0,f,f,0.0,f,Pending,,100.0,+
+male,34.17,5.25,A,a,Salesman,Vacation,0.085,f,f,0.0,t,Verified,290.0,6.0,+
+male,38.67,0.21,A,a,Teacher,Vacation,0.085,t,f,0.0,t,Verified,280.0,100.0,+
+male,25.75,0.75,A,a,Technician,Personal loan,0.25,t,f,0.0,f,Verified,349.0,23.0,+
+female,46.08,3.0,A,a,Technician,Vacation,2.375,t,t,8.0,t,Verified,396.0,4159.0,+
+female,21.5,6.0,A,a,Police Officer,Vacation,2.5,t,t,3.0,f,Verified,80.0,918.0,+
+,20.08,0.125,A,a,Administative,Vacation,1.0,f,t,1.0,f,Verified,240.0,768.0,+
+male,20.5,2.415,A,a,Technician,Vacation,2.0,t,t,11.0,t,Verified,200.0,3000.0,+
+female,29.5,0.46,A,a,Teacher,Vacation,0.54,t,t,4.0,f,Verified,380.0,500.0,+
+,42.25,1.75,B,b,,,0.0,f,f,0.0,t,Verified,150.0,1.0,-
+male,29.83,1.25,B,b,Teacher,Vacation,0.25,f,f,0.0,f,Verified,224.0,100.0,-
+male,20.08,0.25,A,a,Administative,Vacation,0.125,f,f,0.0,f,Verified,200.0,100.0,-
+male,23.42,0.585,A,a,Technician,Debt consolidation,0.085,t,f,0.0,f,Verified,180.0,100.0,-
+female,29.58,1.75,B,b,Teacher,Vacation,1.25,f,f,0.0,t,Verified,280.0,100.0,-
+male,16.17,0.04,A,a,Technician,Vacation,0.04,f,f,0.0,f,Verified,100.0,100.0,+
+male,32.33,3.5,A,a,Teacher,Vacation,0.5,f,f,0.0,t,Verified,232.0,100.0,-
+male,,0.04,B,b,Consultant,Vacation,4.25,f,f,0.0,t,Verified,460.0,100.0,-
+male,47.83,4.165,A,a,Self-employed,Personal loan,0.085,f,f,0.0,t,Verified,520.0,100.0,-
+male,20.0,1.25,B,b,Teacher,Vacation,0.125,f,f,0.0,f,Verified,140.0,4.0,-
+male,27.58,3.25,B,b,Administative,Debt consolidation,5.085,f,t,2.0,t,Verified,369.0,1.0,-
+male,22.0,0.79,A,a,Salesman,Vacation,0.29,f,t,1.0,f,Verified,420.0,283.0,-
+male,19.33,10.915,A,a,Technician,Personal loan,0.585,f,t,2.0,t,Verified,200.0,7.0,-
+female,38.33,4.415,A,a,Technician,Vacation,0.125,f,f,0.0,f,Verified,160.0,100.0,-
+male,29.42,1.25,A,a,Technician,Debt consolidation,0.25,f,t,2.0,t,Verified,400.0,108.0,-
+male,22.67,0.75,A,a,Attorney,Vacation,1.585,f,t,1.0,t,Verified,400.0,9.0,-
+male,32.25,14.0,B,b,Electrician,Weddings,0.0,f,t,2.0,f,Verified,160.0,1.0,-
+male,29.58,4.75,A,a,Programmer,Vacation,2.0,f,t,1.0,t,Verified,460.0,68.0,-
+male,18.42,10.415,B,b,Police Officer,Vacation,0.125,t,f,0.0,f,Verified,120.0,375.0,-
+male,22.17,2.25,A,a,Attorney,Vacation,0.125,f,f,0.0,f,Verified,160.0,10.0,-
+male,22.67,0.165,A,a,Technician,Presents,2.25,f,f,0.0,t,Not Verified,100.0,100.0,+
+female,25.58,0.0,,,,,0.0,f,f,0.0,f,Pending,,100.0,+
+male,18.83,0.0,A,a,Administative,Vacation,0.665,f,f,0.0,f,Verified,160.0,1.0,-
+male,21.58,0.79,B,b, Manager,Vacation,0.665,f,f,0.0,f,Verified,160.0,100.0,-
+male,23.75,12.0,A,a,Technician,Vacation,2.085,f,f,0.0,f,Not Verified,80.0,100.0,-
+male,22.0,7.835,B,b,Attorney,Personal loan,0.165,f,f,0.0,t,Verified,,100.0,-
+male,36.08,2.54,A,a,Electrician,Weddings,0.0,f,f,0.0,f,Verified,100.0,1000.0,-
+male,29.25,13.0,A,a,Consultant,Debt consolidation,0.5,f,f,0.0,f,Verified,228.0,100.0,-
+female,19.58,0.665,A,a,Salesman,Vacation,1.665,f,f,0.0,f,Verified,220.0,5.0,-
+female,22.92,1.25,A,a,Administative,Vacation,0.25,f,f,0.0,t,Verified,120.0,809.0,-
+female,27.25,0.29,A,a,Programmer,Debt consolidation,0.125,f,t,1.0,t,Verified,272.0,108.0,-
+female,38.75,1.5,A,a,Electrician,Weddings,0.0,f,f,0.0,f,Verified,76.0,100.0,-
+male,32.42,2.165,B,b,Teacher,Weddings,0.0,f,f,0.0,f,Verified,120.0,100.0,-
+female,23.75,0.71,A,a,Salesman,Vacation,0.25,f,t,1.0,t,Verified,240.0,4.0,-
+male,18.17,2.46,A,a,Technician,Medical expenses,0.96,f,t,2.0,t,Verified,160.0,587.0,-
+male,40.92,0.5,B,b,Programmer,Vacation,0.5,f,f,0.0,t,Verified,130.0,100.0,-
+male,19.5,9.585,A,a,Police Officer,Vacation,0.79,f,f,0.0,f,Verified,80.0,350.0,-
+male,28.58,3.625,A,a,Police Officer,Vacation,0.25,f,f,0.0,t,Verified,100.0,100.0,-
+male,35.58,0.75,A,a,Teacher,Vacation,1.5,f,f,0.0,t,Verified,231.0,100.0,-
+male,34.17,2.75,A,a,Attorney,Personal loan,2.5,f,f,0.0,t,Verified,232.0,200.0,-
+,33.17,2.25,B,b, Manager,Vacation,3.5,f,f,0.0,t,Verified,200.0,141.0,-
+male,31.58,0.75,B,b,Police Officer,Vacation,3.5,f,f,0.0,t,Verified,320.0,100.0,-
+female,52.5,7.0,A,a,Police Officer,Debt consolidation,3.0,f,f,0.0,f,Verified,100.0,100.0,-
+male,36.17,0.42,B,b,Salesman,Vacation,0.29,f,f,0.0,t,Verified,309.0,2.0,-
+male,37.33,2.665,A,a, Manager,Vacation,0.165,f,f,0.0,t,Verified,100.0,501.0,-
+female,20.83,8.5,A,a,Technician,Vacation,0.165,f,f,0.0,f,Verified,100.0,351.0,-
+male,24.08,9.0,A,a,Police Officer,Vacation,0.25,f,f,0.0,t,Verified,100.0,100.0,-
+male,25.58,0.335,A,a,Teacher,Debt consolidation,3.5,f,f,0.0,t,Verified,340.0,100.0,-
+female,35.17,3.75,A,a,Electrician,Weddings,0.0,f,t,6.0,f,Verified,100.0,200.0,-
+male,48.08,3.75,A,a,Attorney,Personal loan,1.0,f,f,0.0,f,Verified,100.0,2.0,-
+female,15.83,7.625,A,a,Administative,Vacation,0.125,f,t,1.0,t,Verified,100.0,160.0,-
+female,22.5,0.415,A,a,Attorney,Vacation,0.335,f,f,0.0,t,Not Verified,144.0,100.0,-
+male,21.5,11.5,A,a,Attorney,Vacation,0.5,t,f,0.0,t,Verified,100.0,68.0,-
+female,23.58,0.83,A,a,Administative,Vacation,0.415,f,t,1.0,t,Verified,200.0,11.0,-
+female,21.08,5.0,B,b,Electrician,Weddings,0.0,f,f,0.0,f,Verified,100.0,100.0,-
+male,25.67,3.25,A,a,Technician,Debt consolidation,2.29,f,t,1.0,t,Verified,416.0,21.0,-
+female,38.92,1.665,A,a,Police Officer,Vacation,0.25,f,f,0.0,f,Verified,100.0,390.0,-
+female,15.75,0.375,A,a,Technician,Vacation,1.0,f,f,0.0,f,Verified,120.0,18.0,-
+female,28.58,3.75,A,a,Technician,Vacation,0.25,f,t,1.0,t,Verified,40.0,154.0,-
+male,22.25,9.0,A,a,Police Officer,Vacation,0.085,f,f,0.0,f,Verified,100.0,100.0,-
+male,29.83,3.5,A,a,Technician,Vacation,0.165,f,f,0.0,f,Verified,216.0,100.0,-
+female,23.5,1.5,A,a,Salesman,Vacation,0.875,f,f,0.0,t,Verified,160.0,100.0,-
+male,32.08,4.0,B,b, Manager,Vacation,1.5,f,f,0.0,t,Verified,120.0,100.0,-
+male,31.08,1.5,B,b,Salesman,Vacation,0.04,f,f,0.0,f,Not Verified,160.0,100.0,-
+male,31.83,0.04,B,b,Programmer,Vacation,0.04,f,f,0.0,f,Verified,100.0,100.0,-
+female,21.75,11.75,A,a,Technician,Vacation,0.25,f,f,0.0,t,Verified,180.0,100.0,-
+female,17.92,0.54,A,a,Technician,Vacation,1.75,f,t,1.0,t,Verified,80.0,5.0,-
+male,30.33,0.5,A,a,Consultant,Debt consolidation,0.085,f,f,0.0,t,Not Verified,252.0,100.0,-
+male,51.83,2.04,B,b,Electrician,Weddings,1.5,f,f,0.0,f,Verified,120.0,1.0,-
+male,47.17,5.835,A,a,Salesman,Vacation,5.5,f,f,0.0,f,Verified,465.0,150.0,-
+male,25.83,12.835,A,a, Manager,Vacation,0.5,f,f,0.0,f,Verified,100.0,2.0,-
+female,50.25,0.835,A,a,Police Officer,Vacation,0.5,f,f,0.0,t,Verified,240.0,117.0,-
+,29.5,2.0,B,b,Nurse,Debt consolidation,2.0,f,f,0.0,f,Verified,256.0,17.0,-
+female,37.33,2.5,A,a,Attorney,Debt consolidation,0.21,f,f,0.0,f,Verified,260.0,246.0,-
+female,41.58,1.04,A,a,Police Officer,Vacation,0.665,f,f,0.0,f,Verified,240.0,237.0,-
+female,30.58,10.665,A,a,Administative,Debt consolidation,0.085,f,t,12.0,t,Verified,129.0,3.0,-
+male,19.42,7.25,A,a,Programmer,Vacation,0.04,f,t,1.0,f,Verified,100.0,1.0,-
+female,17.92,10.21,A,a,Electrician,Weddings,0.0,f,f,0.0,f,Verified,100.0,50.0,-
+female,20.08,1.25,A,a,Technician,Vacation,0.0,f,f,0.0,f,Verified,100.0,100.0,-
+male,19.5,0.29,A,a,Teacher,Vacation,0.29,f,f,0.0,f,Verified,280.0,364.0,-
+male,27.83,1.0,B,b,Consultant,Debt consolidation,3.0,f,f,0.0,f,Verified,176.0,537.0,-
+male,17.08,3.29,A,a,Attorney,Vacation,0.335,f,f,0.0,t,Verified,140.0,2.0,-
+male,36.42,0.75,B,b,Consultant,Vacation,0.585,f,f,0.0,f,Verified,240.0,3.0,-
+male,40.58,3.29,A,a,Programmer,Vacation,3.5,f,f,0.0,t,Not Verified,400.0,100.0,-
+male,21.08,10.085,B,b,Nurse,Debt consolidation,1.25,f,f,0.0,f,Verified,260.0,100.0,-
+female,22.67,0.75,A,a,Technician,Vacation,2.0,f,t,2.0,t,Verified,200.0,394.0,-
+female,25.25,13.5,B,b,Electrician,Weddings,2.0,f,t,1.0,t,Verified,200.0,1.0,-
+male,17.92,0.205,A,a,Police Officer,Vacation,0.04,f,f,0.0,f,Verified,280.0,750.0,-
+male,35.0,3.375,A,a,Technician,Debt consolidation,8.29,f,f,0.0,t,Verified,100.0,100.0,-
